@@ -1,1 +1,1 @@
-# Data_Analyst_Intern_Projects
+# Projects done as an intern at Unified Mentor are showcased here.
