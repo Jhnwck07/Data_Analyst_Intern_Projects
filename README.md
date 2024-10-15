@@ -1,1 +1,1 @@
-# Projects done as an intern at Unified Mentor are showcased here.
+# Projects done as an Intern at Unified Mentor from 07/2024 - 10/2024 are showcased here.
